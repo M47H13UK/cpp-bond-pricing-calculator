@@ -38,5 +38,5 @@ This project uses only standard C++ libraries: `iostream` and `cmath`
 Using `g++`:
 
 ```bash
-g++ bond_calculator.cpp -o bond_calculator
+g++ main.cpp -o main
 ```
