@@ -33,9 +33,9 @@ Unlike very basic calculators, this program includes input validation to keep re
 
 The bond price is calculated as the **present value of all coupon payments** plus the **present value of the face value**:
 
-\[
+$$
 P = C \cdot \frac{1 - (1 + r)^{-n}}{r} + \frac{F}{(1 + r)^n}
-\]
+$$
 
 Where:
 
